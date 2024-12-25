@@ -38,3 +38,5 @@ Move Snake State Machine:
 
 Four Digit Seven Segment State Machine:
 ![4d7ssm](https://github.com/user-attachments/assets/21f95575-37ef-46b1-a1cc-77f518d3f0b6)
+
+Snake Game Demo: https://youtu.be/zIHoWM5idlY
